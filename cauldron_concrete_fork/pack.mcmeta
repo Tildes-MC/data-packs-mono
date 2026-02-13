@@ -1,0 +1,34 @@
+{
+  "pack": {
+    "pack_format": 94,
+    "supported_formats": {
+      "min_inclusive": 94,
+      "max_inclusive": 94
+    },
+    "description": [
+      {
+        "text": "Cauldron Concrete - tildes fork",
+        "color": "gold"
+      },
+      {
+        "text": "\ntildes.nore.gg",
+        "color": "yellow"
+      }
+    ],
+    "min_format": 94,
+    "max_format": 94
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": {
+          "min_inclusive": 94,
+          "max_inclusive": 2147483647
+        },
+        "directory": "overlay_94",
+        "min_format": 94,
+        "max_format": 2147483647
+      }
+    ]
+  }
+}
