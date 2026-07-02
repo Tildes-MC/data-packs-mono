@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "min_format": [107, 1],
+    "max_format": [107, 1],
+    "description": [
+      {
+        "text": "Cinnabar Crafting",
+        "color": "red"
+      },
+      {
+        "text": "\ntildes.nore.gg",
+        "color": "yellow"
+      }
+    ]
+  }
+}
